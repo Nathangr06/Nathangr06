@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Nathan</h1>
-My name is Griguer Nathan <br>I live in Marseille, France<br>I'm currently in first year of Bachelor in CS at IUT Aix Marseille<br>My favorite programming languages are Python and C++<br>In the future, I'd like to work in Data Analysis
+My name is Griguer Nathan <br>I live in Marseille, France<br>I'm currently in first year of Bachelor in CS at IUT Aix Marseille<br>My favorite programming langages are Python and C++<br>In the future, I'd like to work in Data Analysis
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
